@@ -1,0 +1,10 @@
+C:\Users\gamze\OneDrive\Masaüstü\WindowsFormUygulaması\WindowsForm8\WindowsForm8\bin\Debug\WindowsForm8.exe.config
+C:\Users\gamze\OneDrive\Masaüstü\WindowsFormUygulaması\WindowsForm8\WindowsForm8\bin\Debug\WindowsForm8.exe
+C:\Users\gamze\OneDrive\Masaüstü\WindowsFormUygulaması\WindowsForm8\WindowsForm8\bin\Debug\WindowsForm8.pdb
+C:\Users\gamze\OneDrive\Masaüstü\WindowsFormUygulaması\WindowsForm8\WindowsForm8\obj\Debug\WindowsForm8.csproj.AssemblyReference.cache
+C:\Users\gamze\OneDrive\Masaüstü\WindowsFormUygulaması\WindowsForm8\WindowsForm8\obj\Debug\WindowsForm8.Form1.resources
+C:\Users\gamze\OneDrive\Masaüstü\WindowsFormUygulaması\WindowsForm8\WindowsForm8\obj\Debug\WindowsForm8.Properties.Resources.resources
+C:\Users\gamze\OneDrive\Masaüstü\WindowsFormUygulaması\WindowsForm8\WindowsForm8\obj\Debug\WindowsForm8.csproj.GenerateResource.cache
+C:\Users\gamze\OneDrive\Masaüstü\WindowsFormUygulaması\WindowsForm8\WindowsForm8\obj\Debug\WindowsForm8.csproj.CoreCompileInputs.cache
+C:\Users\gamze\OneDrive\Masaüstü\WindowsFormUygulaması\WindowsForm8\WindowsForm8\obj\Debug\WindowsForm8.exe
+C:\Users\gamze\OneDrive\Masaüstü\WindowsFormUygulaması\WindowsForm8\WindowsForm8\obj\Debug\WindowsForm8.pdb
